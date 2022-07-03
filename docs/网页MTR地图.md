@@ -34,7 +34,7 @@ __以下内容需要一定网络知识__
 在浏览器中输入http://127.0.0.1:（更改后的端口）  
 Forge请输入http://127.0.0.1:（更改后的端口）/index.html  
 ## 让其他人访问你的MTR网页地图
-1. 使用FRP产品（如[樱花FRP](https://www.natfrp.com/) ）映射您的MTR网页地图端口。  
+1. 使用FRP产品（如[樱花FRP](https://www.natfrp.com/) ）映射您的MTR网页地图端口。   
 :::note
 
 注意：请使用HTTP映射  
