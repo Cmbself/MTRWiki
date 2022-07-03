@@ -1,6 +1,6 @@
 ---
 id: doc1
-title: Style Guide
+title: 编辑指南
 sidebar_label: Style Guide
 ---
 
