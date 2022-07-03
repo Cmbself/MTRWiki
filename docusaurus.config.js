@@ -1,14 +1,14 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
+  title: 'MTR中文维基百科',
+  tagline: 'Minecraft Transit Railway Wiki',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'MTRBBS', // Usually your GitHub org/user name.
+  projectName: 'MTRWiki', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'MTRWiki',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
