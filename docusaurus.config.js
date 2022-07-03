@@ -22,7 +22,7 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/Cmbself/MTRWiki',
           label: 'GitHub',
           position: 'right',
         },
@@ -32,50 +32,50 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'MTR',
           items: [
             {
-              label: 'Style Guide',
-              to: 'docs/doc1',
+              label: 'Github',
+              href: 'https://github.com/jonafanho/Minecraft-Transit-Railway',
             },
             {
-              label: 'Second Doc',
-              to: 'docs/doc2',
+              label: 'CurseForge',
+              href: 'https://www.curseforge.com/minecraft/mc-mods/minecraft-transit-railway',
             },
           ],
         },
         {
-          title: 'Community',
+          title: '社区',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: '(Official)MTRBBS',
+              href: 'https://www.mtrbbs.top/forum.php',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'MTRCommunity',
+              href: 'https://www.mtrbbs.com.cn',
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'MC百科',
+              href: 'https://www.mcmod.cn/class/2157.html',
             },
           ],
         },
         {
-          title: 'More',
+          title: '更多',
           items: [
             {
-              label: 'Blog',
-              to: 'blog',
+              label: '爱发电',
+              href: 'https://afdian.net/@minecraft_mtr',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'Crowdin',
+              href: 'https://crowdin.com/project/minecraft-transit-railway/invite/public?show_welcome&d=44cce0a5ea9df7e9dcca6aec205589371331568',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} MTRWiki. Made with ❤.`,
     },
   },
   presets: [
