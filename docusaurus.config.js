@@ -53,7 +53,7 @@ module.exports = {
             },
             {
               label: 'MTRCommunity',
-              href: 'https://www.mtrbbs.com.cn',
+              href: 'http://www.mtrbbs.com.cn',
             },
             {
               label: 'MC百科',
