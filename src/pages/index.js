@@ -72,7 +72,7 @@ function Home() {
                 styles.getStarted,
               )}
               to={useBaseUrl('docs/doc1')}>
-              Get Started
+              阅读
             </Link>
           </div>
         </div>
