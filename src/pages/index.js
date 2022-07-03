@@ -8,32 +8,29 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Easy to Use</>,
+    title: <>功能齐全</>,
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+         Minecraft Transit Railway在游戏里添加了完整的铁路系统，全自动化的运行系统以及全面的铁路设施，包括闸机、售票机、屏蔽门等。支持自动驾驶，手动驾驶*测试版 两种驾驶方法。
       </>
     ),
   },
   {
-    title: <>Focus on What Matters</>,
+    title: <>方便快捷</>,
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+         只需一次小小的安装，便可享受全部功能；游戏中，只需要一个铁路仪表板，便可操控整个铁路系统！何乐而不为呢？点击下方相关链接试试吧。
       </>
     ),
   },
   {
-    title: <>Powered by React</>,
+    title: <>不只是“地铁”</>,
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+         本模组最新版除地铁外还增加了缆车、轮渡、直梯、升降梯等。另有社区玩家制作的追加包，将高铁、巴士等额外内容添加到了游戏内，玩法丰富多样。
       </>
     ),
   },
