@@ -75,7 +75,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} MTRWiki. Made with ❤.`,
+      copyright: `Copyright © ${new Date().getFullYear()} MTRWiki. Made with ❤.本站点与MTR官方没有从属关系`,
     },
   },
   presets: [
