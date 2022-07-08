@@ -6,9 +6,9 @@ sidebar_label: 关于此Mod
 
 # Minecraft Transit Railway 3.0
 
-Minecraft Transit Railway_是一个基于香港地铁、伦敦地铁和纽约地铁的[Minecraft mod]（https://minecraft.gamepedia.com/Mods）。它将仿真的火车与其他铁路设施和物品一起添加到游戏中。有了这个MOD，就有可能在你的世界里建立一个功能齐全的铁路系统
+Minecraft Transit Railway_是一个基于香港地铁、伦敦地铁和纽约地铁的[Minecraft mod](https://minecraft.gamepedia.com/Mods)。它将仿真的火车与其他铁路设施和物品一起添加到游戏中。有了这个MOD，就有可能在你的世界里建立一个功能齐全的铁路系统
 
-[！[视频预告片](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/footer/video-preview.png)](https://www.youtube.com/watch?v=1cZfU7t4cAk)
+[![视频预告片](https://github.com/jonafanho/Minecraft-Transit-Railway/blob/master/images/footer/video-preview.png)](https://www.youtube.com/watch?v=1cZfU7t4cAk)
 
 请向作者报告任何你发现的问题或Bug，作者会谢谢你的。 请在[todo list](https://github.com/jonafanho/Minecraft-Transit-Railway/projects/2)来查看目前已知的问题。
 
@@ -30,7 +30,7 @@ Minecraft Transit Railway Mod的[Crowdin网站](https://crwd.in/minecraft-transi
 
 Crowdin是一个云上的翻译平台，让愿意为Mod翻译做贡献的人进行翻译。有了你的帮助，我们可以把这个MOD翻译成许多不同的语言。你可以创建一个免费的帐户来开始翻译。
 
-[！[Crowdin](https://badges.crowdin.net/minecraft-transit-railway/localized.svg)](https://crowdin.com/project/minecraft-transit-railway)
+[![Crowdin](https://badges.crowdin.net/minecraft-transit-railway/localized.svg)](https://crowdin.com/project/minecraft-transit-railway)
 
 ### 添加新功能 
 
